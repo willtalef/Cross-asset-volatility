@@ -1,0 +1,3 @@
+# Optional: used automatically when installed, otherwise documented fallbacks are used
+xgboost>=2.0   # gradient-boosted trees (fallback: scikit-learn HistGradientBoosting)
+torch>=2.0     # LSTM network (fallback: scikit-learn MLP)
